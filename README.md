@@ -20,7 +20,7 @@ Using Python, Pandas, and SQLAlchemy, the date column was filtered from the meas
 
 ###December Summary
 
-![December Temps Summary](https://github.com/y2k600f4/surfs_up/blob/main/december_temps.png)
+![December Temps Summary](https://github.com/y2k600f4/surfs_up/blob/main/dec_temps.png)
 
 ###Key Differences in weather between June and December
 
